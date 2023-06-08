@@ -1,362 +1,362 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/CODE_OF_CONDUCT/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/CODE_OF_CONDUCT/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/CONTRIBUTING/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/CONTRIBUTING/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/LICENSE/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/LICENSE/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/installation/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/installation/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/dev/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/dev/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/examples/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/examples/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/examples/_basic/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/examples/_basic/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/examples/linkedinpoll/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/examples/linkedinpoll/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/examples/population/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/examples/population/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/examples/proglangs/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/examples/proglangs/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/examples/titanic/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/examples/titanic/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/examples/trumptwitter/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/examples/trumptwitter/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/examples/usbudget/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/examples/usbudget/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/modules/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/modules/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/classes/VizzuPlayer/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/classes/VizzuPlayer/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Phase/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Phase/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Story/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Story/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Anim.Animation/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Anim.Animation/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Anim.Completing/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Anim.Completing/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Anim.Control/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Anim.Control/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Anim.ControlOptions/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Anim.ControlOptions/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Anim.GroupOptions/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Anim.GroupOptions/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Anim.Keyframe/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Anim.Keyframe/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Anim.Options/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Anim.Options/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Anim.Target/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Anim.Target/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Config.Channel/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Config.Channel/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Config.ChannelRange/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Config.ChannelRange/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Config.Channels/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Config.Channels/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Config.Chart/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Config.Chart/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.AbstractSeriesInfo/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.AbstractSeriesInfo/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.Cube/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.Cube/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.CubeData/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.CubeData/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.DimensionSeriesInfo/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.DimensionSeriesInfo/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.Filter/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.Filter/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.MeasureSeriesInfo/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.MeasureSeriesInfo/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.Metainfo/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.Metainfo/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.Record/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.Record/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.Series/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.Series/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.SeriesMetaInfo/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.SeriesMetaInfo/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.TableByRecords/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.TableByRecords/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Data.TableBySeries/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Data.TableBySeries/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Axis/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Axis/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.AxisLabel/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.AxisLabel/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.AxisTitle/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.AxisTitle/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Box/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Box/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Chart/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Chart/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.DataPoint/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.DataPoint/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Font/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Font/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Guides/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Guides/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Interlacing/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Interlacing/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Legend/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Legend/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.LegendMarker/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.LegendMarker/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Logo/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Logo/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Marker/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Marker/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.MarkerLabel/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.MarkerLabel/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.OrientedLabel/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.OrientedLabel/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Padding/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Padding/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Plot/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Plot/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Text/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Text/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Ticks/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Ticks/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/interfaces/Vizzu.Styles.Tooltip/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/interfaces/Vizzu.Styles.Tooltip/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/modules/Vizzu.Anim/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/modules/Vizzu.Anim/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/modules/Vizzu.Config/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/modules/Vizzu.Config/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/modules/Vizzu.Data/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/modules/Vizzu.Data/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/modules/Vizzu.Styles/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/modules/Vizzu.Styles/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/reference/modules/Vizzu/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/reference/modules/Vizzu/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/tutorial/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/tutorial/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/tutorial/building_blocks/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/tutorial/building_blocks/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/tutorial/data/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/tutorial/data/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizzu-story.vizzuhq.com/latest/tutorial/initialization/</loc>
+         <loc>https://veghdev.github.io/vizzu-doc-test/latest/tutorial/initialization/</loc>
          <lastmod>2023-06-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
