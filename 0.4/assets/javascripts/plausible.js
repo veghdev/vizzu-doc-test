@@ -11,7 +11,7 @@ const headElement = document.getElementsByTagName("head")[0];
 headElement.appendChild(scriptElement1);
 headElement.appendChild(scriptElement2);
 
-if (window.location.pathname.indexOf("404.html") === -1) {
+if (window.location.pathname.indexOf("404.html") !== -1) {
   const scriptElement = document.createElement("script");
   scriptElement.textContent =
     'plausible("404",{ props: { path: document.location.pathname } });';
