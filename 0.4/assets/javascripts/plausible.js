@@ -1,20 +1,20 @@
-const scriptElement1 = document.createElement("script");
-scriptElement1.setAttribute("defer", "");
-scriptElement1.setAttribute("data-domain", "veghdev.github.io");
-scriptElement1.src = "https://plausible.io/js/script.outbound-links.js";
+const plausibleScriptElement1 = document.createElement("script");
+plausibleScriptElement1.setAttribute("defer", "");
+plausibleScriptElement1.setAttribute("data-domain", "veghdev.github.io");
+plausibleScriptElement1.src = "https://plausible.io/js/script.outbound-links.js";
 
-const scriptElement2 = document.createElement("script");
-scriptElement2.textContent =
+const plausibleScriptElement2 = document.createElement("script");
+plausibleScriptElement2.textContent =
   "window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }";
 
-const headElement = document.getElementsByTagName("head")[0];
-headElement.appendChild(scriptElement1);
-headElement.appendChild(scriptElement2);
+const plausibleHeadElement = document.getElementsByTagName("head")[0];
+plausibleHeadElement.appendChild(plausibleScriptElement1);
+plausibleHeadElement.appendChild(plausibleScriptElement2);
 
 if (window.location.pathname.indexOf("404.html") !== -1) {
-  const scriptElement = document.createElement("script");
-  scriptElement.textContent =
+  const plausibleScriptElement404 = document.createElement("script");
+  plausibleScriptElement404.textContent =
     'plausible("404",{ props: { path: document.location.pathname } });';
 
-  document.body.appendChild(scriptElement);
+  document.body.appendChild(plausibleScriptElement404);
 }
