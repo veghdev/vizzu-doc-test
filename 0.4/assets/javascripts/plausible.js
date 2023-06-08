@@ -11,11 +11,3 @@ plausibleHead2.textContent =
 let headElement = document.getElementsByTagName("head")[0];
 headElement.appendChild(plausibleHead1);
 headElement.appendChild(plausibleHead2);
-
-if (window.location.pathname.indexOf("404.html") !== -1) {
-  let plausibleBody1 = document.createElement("script");
-  plausibleBody1.textContent =
-    'plausible("404",{ props: { path: document.location.pathname } });';
-
-  document.body.appendChild(plausibleBody1);
-}
